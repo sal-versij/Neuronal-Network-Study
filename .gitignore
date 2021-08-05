@@ -135,16 +135,7 @@ dmypy.json
 ### venv ###
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
-nns/.Python
-nns/[Bb]in
-nns/[Ii]nclude
-nns/[Ll]ib
-nns/[Ll]ib64
-nns/[Ll]ocal
-nns/[Ss]cripts
-nns/pyvenv.cfg
-nns/.venv
-nns/pip-selfcheck.json
+nns/*
 
 # End of https://www.toptal.com/developers/gitignore/api/venv
 
